@@ -1,0 +1,32 @@
+.container {
+  padding: 20px;
+  font-family: Arial;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  margin: 10px 0;
+}
+
+.link {
+  color: blue;
+  text-decoration: none;
+}
+
+.button {
+  margin-left: 10px;
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
